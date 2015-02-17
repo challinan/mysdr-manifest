@@ -3,7 +3,7 @@
   <remote fetch="http://github.com/challinan/" name="favorites" />
   <remote fetch="https://github.com/balister/" name="gnuradio" />
   <remote fetch="git://git.yoctoproject.org/meta-amd/" name="amd" />
-  <remote fetch="git://github.com/openembedded/meta-openembedded.git/" name="meta-oe" />
+  <remote fetch="git://git.openembedded.org/" name="meta-oe" />
   <remote fetch="git://git.yoctoproject.org/" name="yocto" />
 
   <default remote="favorites" revision="master" sync-j="4" />
