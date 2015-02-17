@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="http://github.com/challinan/" name="favorites" />
+  <remote fetch="http://github.com/challinan/" name="origin" />
   <remote fetch="https://github.com/balister/" name="gnuradio" />
   <remote fetch="git://git.yoctoproject.org/meta-amd/" name="amd" />
   <remote fetch="git://git.openembedded.org/" name="meta-oe" />
