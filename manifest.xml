@@ -6,8 +6,8 @@
   <remote fetch="git://github.com/openembedded/meta-openembedded.git/" name="meta-oe" />
   <remote fetch="git://git.yoctoproject.org/" name="yocto" />
 
-  <project name="meta-mytools.git" path="meta-mytools" remote="hallinan" revision="8aeee7015e2c1ed5a069fc6acc92f0c6977a34ab" upstream="master" />
-  <project name="meta-sdr.git" path="meta-sdr" remote="balister" revision="257fe1fae60fce659b412967a543a63c9b87438c" upstream="master" />
+  <project name="meta-mytools.git" path="meta-mytools" remote="favorite" revision="8aeee7015e2c1ed5a069fc6acc92f0c6977a34ab" upstream="master" />
+  <project name="meta-sdr.git" path="meta-sdr" remote="gnuradio" revision="257fe1fae60fce659b412967a543a63c9b87438c" upstream="master" />
   <project name="meta-amd.git" path="meta-amd" remote="amd" revision="e873d1af397864efe7a1b95be216656486273885" upstream="master" />
   <project name="openembedded/meta-oe.git" path="meta-openembedded" remote="github" revision="9c926ef2d463e643fb0dc87f6535a12e35d039ab" upstream="master" />
   <project name="poky.git" path="poky" remote="yocto" revision="9fc095a439c36014c73b3a8f240afba09fe0e4d7" upstream="dizzy" />
